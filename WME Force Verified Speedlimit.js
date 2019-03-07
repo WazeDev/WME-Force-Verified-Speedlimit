@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Force Verified Speedlimit
 // @namespace    WazeDev
-// @version      2019.03.07.01
+// @version      2019.03.07.02
 // @author       JustinS83, Dude495
 // @description  Force the Verify Speedlimit Button to function despite WME Breaking it
 // @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/?.*$/
